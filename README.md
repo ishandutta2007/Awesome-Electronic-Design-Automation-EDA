@@ -63,7 +63,7 @@ The following commercial SaaS solutions and cloud-hosted EDA environments delive
 
 The open-source EDA ecosystem spans full PCB design suites, analog/mixed-signal SPICE simulators, Hardware Description Language (HDL) compilers, and automated silicon flows that take digital Verilog code all the way to fabricated ASIC tape-outs.
 
-Entries are sorted in **descending order by GitHub star count**.
+Entries are sorted in **descending order by GitHub Stars_Count**.
 
 ### 1. ⚡ [Yosys](https://github.com/YosysHQ/yosys) [![GitHub_Stars](https://img.shields.io/github/stars/YosysHQ/yosys?style=social&color=white)](https://github.com/YosysHQ/yosys/stargazers)
 - **Primary Role**: Open-source framework for Verilog RTL synthesis and formal verification.
@@ -380,7 +380,7 @@ Contributions from electrical engineers, PCB designers, silicon architects, and 
 2. 🌿 **Create a descriptive feature branch**: `git checkout -b feature/add-new-eda-tool`.
 3. 📝 **Add or update an entry** in `README.md`:
    - For SaaS products: include official product link, parent company scale (valuation/revenue), specific starting tier price, and concrete free tier/trial limits.
-   - For open-source projects: include repository link, social star badge linking to `/stargazers`, license, and concise description.
+   - For open-source projects: include repository link, social Stars_Badge linking to `/stargazers`, license, and concise description.
 4. 🧪 Verify all links, markdown tables, and badge formatting.
 5. 📬 **Submit a Pull Request** with a clear explanation of why the addition benefits the hardware community!
 
